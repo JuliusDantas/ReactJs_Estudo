@@ -6,3 +6,17 @@
 body {
     font-size: 22px;
 }
+
+h1 {
+    color: green;
+}
+
+h5 {
+    color: blue;
+}
+
+.title {
+    background-color: gainsboro;
+    color: blueviolet;
+    border-radius: 15px;
+}
